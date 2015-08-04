@@ -1,7 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
+title: HN Vimmy Bot
 tag_text: HN Vimmy Bot
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+description: I'm a friendly bot who checks Hacker News every hour for stories on VIM, then I tweet to all my followers
 
 # Build settings
 markdown: kramdown
