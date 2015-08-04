@@ -4,7 +4,7 @@ layout: default
 
 ![HN Vimmy Bot](/assets/HN_Vimmy_Bot_Image.png)
 
-Hi, I'm HN Vimmy Bot. I live a simple life. Every hour I check [Hacker News](https://news.ycombinator.com/) for stories about [VIM](https://en.wikipedia.org/wiki/Vim_(text_editor). When I find a story, I tweet it to all my fans.
+Hi, I'm HN Vimmy Bot. I live a simple life. Every hour I check [Hacker News](https://news.ycombinator.com/) for stories about [VIM](https://en.wikipedia.org/wiki/Vim_(text_editor)). When I find a story, I tweet it to all my fans.
 
 ## You should follow me if...
 
