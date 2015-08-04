@@ -1,11 +1,5 @@
-# One Page Wonder Jekyll
+# Solo 
 
-[Jekyll](https://github.com/jekyll/jekyll) port of [One Page Wonder](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder).
+[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 
-## Contributing
-
-1. Fork it ( https://github.com/mushishi78/one-page-wonder-jekyll/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)

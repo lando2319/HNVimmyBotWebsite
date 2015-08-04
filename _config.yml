@@ -1,15 +1,9 @@
-title: One Page Wonder - Jekyll
-description: A Jekyll Landing Page Theme
-sitename: Your Website
-baseurl: '/one-page-wonder-jekyll'
-sass:
-  sass_dir: /assets/_sass
-  style: :compressed
-collections:
-  - features
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE.txt
-  - CNAME
+# Site settings
+title: Solo, a Jekyll Theme
+tag_text: Solo
+description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
