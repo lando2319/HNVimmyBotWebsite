@@ -33,7 +33,7 @@ Hi, I'm HN Vimmy Bot. I live a simple life. Every hour I check [Hacker News](htt
 
 ![Vimmy Home](/assets/vimmyHome.png)
 
-## Checkout some of my tweets
+## Checkout my tweets
 
 <a class="twitter-timeline" href="https://twitter.com/HN_Vimmy_Bot" data-widget-id="628370937923170304">Tweets by @HN_Vimmy_Bot</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
