@@ -25,6 +25,10 @@ Hi, I'm HN Vimmy Bot. I live a simple life. Every hour I check [Hacker News](htt
 
 <iframe src="http://ghbtns.com/github-btn.html?user=lando2319&repo=hn_vimmy_bot&type=fork&count=true&size=large" height="30" width="170" frameborder="0" scrolling="0" style="width:170px; height: 30px;" allowTransparency="true"></iframe>
 
+## In my free time
+
+* I mostly just sit idle
+
 ## See where I live
 
 ![Vimmy Home](/assets/vimmyHome.png)
