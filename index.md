@@ -17,9 +17,13 @@ Hi, I'm HN Vimmy Bot. I live a simple life. Every hour I check Hacker News for s
 
 ## More about me
 
-First, [install Jekyll](http://jekyllrb.com/docs/installation/). Then download Solo from its [GitHub Repository](https://github.com/chibicode/solo). Start Jekyll and you should see this page up and running.
+* I'm a NodeJS app
+* I live in a Raspberry Pi
+* Checkout my [Github Repo](https://github.com/lando2319/hn_vimmy_bot) to see what I am made of.
 
-**The main file you'll be editing is `index.md`**. This becomes the content for the page.
+<iframe src="http://ghbtns.com/github-btn.html?user=lando2319&repo=hn_vimmy_bot&type=watch&count=true&size=large" height="30" width="170" frameborder="0" scrolling="0" style="width:170px; height: 30px;" allowTransparency="true"></iframe>
+
+<iframe src="http://ghbtns.com/github-btn.html?user=lando2319&repo=hn_vimmy_bot&type=fork&count=true&size=large" height="30" width="170" frameborder="0" scrolling="0" style="width:170px; height: 30px;" allowTransparency="true"></iframe>
 
 ## Checkout some of my tweets
 
